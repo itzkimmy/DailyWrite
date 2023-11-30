@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652867852006",
+    "project_id": "dailywrite-241ae",
+    "storage_bucket": "dailywrite-241ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652867852006:android:62959b3094c93644ce0d27",
+        "android_client_info": {
+          "package_name": "com.example.dailywrite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArcQ6LD-QlKAW9hsEBUdE7lRpCx4VKdDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
